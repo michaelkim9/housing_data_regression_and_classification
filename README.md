@@ -14,14 +14,14 @@ Please see "work_notebook" for all the work on this project done in the Jupyter 
 
 ---
 ## Part 1
-    **tools used:** Python, Scikit-learn, Pandas, Numpy, Matplotlib
-    **models/techniques developed:** TrainTestSplit, GridSearchCV, Pipelines, StandardScaler, SelectKBest, SelectFromModel, ElasticNet with Lasso, RandomForest Regressor with Feature Selection, ExtraTrees Regressor
+- **tools used:** Python, Scikit-learn, Pandas, Numpy, Matplotlib
+- **models/techniques developed:** TrainTestSplit, GridSearchCV, Pipelines, StandardScaler, SelectKBest, SelectFromModel, ElasticNet with Lasso, RandomForest Regressor with Feature Selection, ExtraTrees Regressor
 
 ## Part 2
-    **tools used:** Python, Scikit-learn, Pandas, Matplotlib
-    **models/techniques developed:** TrainTestSplit, GridSearchCV, Pipelines, StandardScaler, SelectKBest, SelectFromModel, ElasticNet with Lasso, RandomForest Regressor with Feature Selection, ExtraTrees Regressor
+- **tools used:** Python, Scikit-learn, Pandas, Matplotlib
+- **models/techniques developed:** TrainTestSplit, GridSearchCV, Pipelines, StandardScaler, SelectKBest, SelectFromModel, ElasticNet with Lasso, RandomForest Regressor with Feature Selection, ExtraTrees Regressor
 
 ## Part 3
-    **tools used:** Python, Scikit-learn, Pandas, Matplotlib
-    **models/techniques developed:** TrainTestSplit, GridSearchCV, Pipelines, StandardScaler, AdaBoostClassifier, GradientBoostingClassifier, XGBoostClassifier, Classification Report, Confusion Matrix, ROC curve
+- **tools used:** Python, Scikit-learn, Pandas, Matplotlib
+- **models/techniques developed:** TrainTestSplit, GridSearchCV, Pipelines, StandardScaler, AdaBoostClassifier, GradientBoostingClassifier, XGBoostClassifier, Classification Report, Confusion Matrix, ROC curve
 
